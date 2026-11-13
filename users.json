@@ -1,0 +1,80 @@
+[
+    {
+        "user_id": "ali123",
+        "password": "pass1234",
+        "name": "Ali Khan",
+        "gender": "M",
+        "cgpa": 3.6,
+        "program": "BSCS",
+        "semester": 3,
+        "subjects": [
+            {
+                "name": "Python",
+                "grade": "A",
+                "interest": "both"
+            },
+            {
+                "name": "Statistics",
+                "grade": "A-",
+                "interest": "marks"
+            }
+        ],
+        "availability": [
+            "Mon 4-6pm",
+            "Wed 5-7pm"
+        ],
+        "can_mentor": true,
+        "charges": 500.0,
+        "proof": "Built a library app in Python; midterm 92/100"
+    },
+    {
+        "user_id": "sara01",
+        "password": "sara2026",
+        "name": "Sara Ahmed",
+        "gender": "F",
+        "cgpa": 3.4,
+        "program": "BSBA",
+        "semester": 1,
+        "subjects": [
+            {
+                "name": "Python",
+                "grade": "B+",
+                "interest": "intrigued"
+            }
+        ],
+        "availability": [
+            "Mon 4-6pm",
+            "Fri 2-4pm"
+        ],
+        "can_mentor": false,
+        "charges": 0.0,
+        "proof": ""
+    },
+    {
+        "user_id": "hamza9",
+        "password": "hamza2026",
+        "name": "Hamza Raza",
+        "gender": "M",
+        "cgpa": 3.0,
+        "program": "BSCS",
+        "semester": 3,
+        "subjects": [
+            {
+                "name": "Python",
+                "grade": "B",
+                "interest": "marks"
+            },
+            {
+                "name": "Accounting",
+                "grade": "B-",
+                "interest": "both"
+            }
+        ],
+        "availability": [
+            "Mon 4-6pm"
+        ],
+        "can_mentor": false,
+        "charges": 0.0,
+        "proof": ""
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "group_id": "G001",
+        "subject": "Python",
+        "creator_id": "ali123",
+        "members": [
+            "ali123",
+            "sara01",
+            "hamza9"
+        ],
+        "max_members": 4,
+        "mentor_id": "ali123",
+        "time": "Mon 4-6pm",
+        "location": "Cafeteria",
+        "price": 300.0,
+        "status": "confirmed",
+        "accepted_by": [
+            "sara01",
+            "ali123",
+            "hamza9"
+        ],
+        "history": [
+            {
+                "by": "ali123",
+                "time": "Mon 4-6pm",
+                "location": "Library Room 2",
+                "price": 500.0
+            },
+            {
+                "by": "sara01",
+                "time": "Mon 4-6pm",
+                "location": "Cafeteria",
+                "price": 300.0
+            }
+        ]
+    }
+]
