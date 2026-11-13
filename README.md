@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| Team member 1 | [Full name], [Roll number] |
-| Team member 2 | [Full name], [Roll number] |
-| Course | [Course name] |
+| Team member 1 | [Maham Waqas], [25l-5225] |
+| Team member 2 | [Khadija Amir], [25l-5110] |
+| Course | [Programming for Business] |
 
 ## Description
 
